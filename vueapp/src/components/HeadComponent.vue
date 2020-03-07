@@ -14,8 +14,10 @@ export default {
 
 <style>
 .header {
-	margin: 0 auto;
+	margin-top: 40px;
+	margin-left: 38%;
 }
+
 .headImg{
 	display: inline-block;
 	height: 50px;
